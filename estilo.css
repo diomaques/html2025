@@ -1,0 +1,13 @@
+h1 {
+
+    color: blue;
+    font-size: 45px;
+}
+
+p {
+    color: #FF0000;
+    font-size: 20px;
+    background-color: yellow;
+    text-shadow: 6px 12px 4px rgb(144, 140, 248);;
+
+}
